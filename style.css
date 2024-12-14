@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: rgba(18, 15, 15, 0.94);
+    background-color: #fe86a4;
 }
 
 .cabecalho {
@@ -15,7 +15,7 @@ body {
     height: 100px;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(5, 32, 7);
+    background-color: #FFb6c0;
     box-shadow: 0 4px 17px black;
     position: fixed;
 }
